@@ -26,7 +26,7 @@ which should be focused (.focus()). The edit should be saved on both blur and en
 Make sure to .trim() the input and then check that it's not empty. If it's empty the todo should instead be destroyed. 
 If escape is pressed during the edit, the edit state should be left and any changes be discarded.</p>
 
-<h3>Counter<h3>
+<h3>Counter</h3>
 <p>Displays the number of active todos in a pluralized form. Make sure the number is wrapped by a strong tag. Also make 
 sure to pluralize the item word correctly: 0 items, 1 item, 2 items. Example: 2 items left</p>
 
